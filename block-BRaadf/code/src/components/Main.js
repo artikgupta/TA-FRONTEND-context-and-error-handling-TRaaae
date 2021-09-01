@@ -6,12 +6,12 @@ import Title from "./Title";
 function Main({ isDarkMode }) {
   return (
     <>
-      <Title text="Text Component" isDarkMode={isDarkMode} />
-      <Paragraph isDarkMode={isDarkMode} />
-      <Title text="Card Component" isDarkMode={isDarkMode} />
+      <Title text="Text Component" />
+      <Paragraph />
+      <Title text="Card Component" />
       <Cards />
-      <Title text="Banner Component" isDarkMode={isDarkMode} />
-      <Banner isDarkMode={isDarkMode} />
+      <Title text="Banner Component" />
+      <Banner />
     </>
   );
 }

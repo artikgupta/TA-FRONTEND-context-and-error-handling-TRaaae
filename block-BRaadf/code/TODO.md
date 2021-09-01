@@ -9,7 +9,7 @@ To ren this app you need to do the following
 
 - We have an application with dark/light mode
 - In this example we are passing data using props
-- To make this applicationw work we are passing data on multiple level
+- To make this application work we are passing data on multiple level
 - You have to convert this application to use Context API to share data
 - Context will solve the problem of passing data using props again and again
 - Make sure to make the application work in the same as it workin now
